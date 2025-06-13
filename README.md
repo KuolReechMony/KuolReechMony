@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Interested in: Physics, Math, Engineering, Computer Science
-Currently learning: C++, Python, 3D-Printing, Blender
+Interested in: Physics, Math, Engineering, Computer Science <br>
+Currently learning: C++, Python, 3D-Printing, Blender <br>
 Long-term goals: Computational Physics
 
 ---
